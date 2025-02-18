@@ -1,2 +1,5 @@
-if __name__=='__main__':
-    pass
+ x = 2
+ y = 3
+ z = x * y
+ print(z)
+ 
